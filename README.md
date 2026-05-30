@@ -6,7 +6,7 @@
 
 </div>
 
-## Hello, here is Xuhaoyang
+## Hello, here is Chen
 
 I am a Data Science postgraduate student in the UK, currently building a stronger foundation in Python, data analysis, machine learning, and AI-assisted coding workflows.
 
